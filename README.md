@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**aryobarzan/aryobarzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack passionate dev (with a Ph.D. 🤓) at your service!  
+hiring? I'm all ears! ([LinkedIn](https://www.linkedin.com/in/aryobarzan-atashpendar-768111199/), [aryobarzan.com](https://aryobarzan.com/), `aryobarzan [dot] atashpendar [at] gmail [dot] com`)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Projects**
+  - ❓ **BEACON Q** ([Backend GitHub](https://github.com/aryobarzan/beaconq-backend-node), [App Store](https://apps.apple.com/us/app/beacon-q/id1643852992), [Play Store](https://play.google.com/store/apps/details?id=lu.uni.coast.beacon_q_app)): feature-packed quiz platform for self-paced learning. Core functionality includes an adaptive difficulty system for its activities, block-based coding questions, review recommendations based on spaced-repetition, and recall analysis for exam preparation, as well as a vast set of gamification features.
+    - 💻 Stack: Flutter (Dart), Node.js (Express, TypeScript), MongoDB, Firebase Admin & Messaging, Docker
+  - 🔒 **GridLock** ([App Store](https://apps.apple.com/app/gridlock-exam-manager/id6770634545)): visual seating arrangement for exams. The assignment engine applies the user's constraints for an automatic assignment of students to available seats in the exam room. Other utilities include multi-phase timers, on-screen instructions, attendance tracking, auditing and student list import from CSV/JSON.
+    - 💻 Stack: SwiftUI (Swift), Apple Foundation Models
+  - 📱 **DartBlock** ([GitHub](https://github.com/aryobarzan/dartblock), [pub.dev](https://pub.dev/packages/dartblock_code), [demo](https://aryobarzan.com/dartblock)): block-based programming framework with mobile first UI/UX design. Supports custom functions, recursion, exception-throwing, automatic code evaluation, difficulty adjustment and conversion to Java.
+    - 💻 Stack: Flutter (Dart)
+  - 📓 **Sketchnoting** ([GitHub](https://github.com/aryobarzan/Sketchnoting)): ML-infused note-taking app for iPad. Alongside handwriting and sketch recognition, Sketchnoting integrates semantic annotations for the user's notes, as well as a supercharged search combining lexical search, semantic search, visual search with force-directed graph visualization and question-answering.
+    - 💻 Stack: UIKit (Swift), Google ML Kit
+  - 📷 **Photo Classifier** ([Backend GitHub](https://github.com/aryobarzan/photo_classification-fastapi), [Frontend GitHub](https://github.com/aryobarzan/photo-classification-angular)): experimentation with microservice-based archiecture. The backend features multiple services, including a core FastAPI REST server, a separate FastAPI server handling image classification tasks, an S3 object store (Garage) holding images and a PostgreSQL database, all containerized with Docker. The frontend is built with Angular, featuring user authentication (JWT) and role-based access (admin).
+    - 💻 Stack: FastAPI (Python), PostgreSQL, Garage (S3), Docker, Angular (TypeScript)
+  - 🧑‍🎓 **Yactul** ([App Store](https://apps.apple.com/us/app/yactul/id1435998187)): lightweight, offline quiz app for self-paced learning. Supports multiple question types, a coaching mode based on spaced-repetition, as well as multimedia learning resources.
+    - 💻 Stack: Xamarin.Forms (C#)
+  - 😺 **Kitty - Discord Bot** ([GitHub](https://github.com/aryobarzan/kitty-discord-bot)): multi-purpose bot for Discord. Features include extensive logging, user customization and moderation. Its MusicBrainz API integration enables a music profile feature, allowing users to highlight their favorite songs for a given artist, resulting in a banner rendered by the bot.
+    - 💻 Stack: Java, sqlite
+- **Publications**
+  - A. ATASHPENDAR. "BEACON Q: Encouraging Regular Self-Testing via a Personalized and Gamified Quiz App." Unpublished doctoral thesis, Unilu - University of Luxembourg [Faculty of Science, Technology and Medicine], Esch-sur-Alzette, Luxembourg, 2025. <br />Jury: Jury: S. ROTHKUGEL (Promotor), D. ZAMPUNIERIS (Promotor), R. REUTER (Promotor), S. FRYSINGER (Promotor), and S. PAEK (Promotor). ([permalink](https://hdl.handle.net/10993/65895), [PDF](https://orbilu.uni.lu/bitstream/10993/65895/1/PhD_Thesis-Final-AryobarzanAtashpendar.pdf))
+  - Atashpendar, Aryobarzan, and Steffen Rothkugel. "Block-based programming for mobile with conventional exceptions and automatic evaluation." In Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1, pp. 597-603. 2024. ([permalink](https://dl.acm.org/doi/abs/10.1145/3649217.3653549), [PDF](https://dl.acm.org/doi/pdf/10.1145/3649217.3653549))
+  - Sheykhmohammadi, Nazanin, Aryobarzan Atashpendar, and Denis Zampunieris. "High-fidelity simulation pre-briefing with digital quizzes: Using INACSL standards for improving effectiveness." In 16th the International Conference on Computer Supported Education (CSEDU 2024). SciTePress, 2024. ([permalink](https://orbilu.uni.lu/handle/10993/61375), [PDF](https://orbilu.uni.lu/bitstream/10993/61375/1/Improving_Pre_Briefing_in_High_Fidelity_Simulation__Using_Alternative_Methods_and_Mobile_Quiz_Application%20%2868%29-postprint.pdf))
+  - Atashpendar, Aryobarzan, and Steffen Rothkugel. "Difficulty-Adjusted Quizzes: An Effectiveness Analysis." In 2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE), pp. 1-6. IEEE, 2023. ([permalink](https://ieeexplore.ieee.org/abstract/document/10398305))
+  - Atashpendar, Aryobarzan, and Steffen Rothkugel. "Improving Long-Term Retention through Personalized Recall Testing and Immediate Feedback." In 2023 11th International Conference on Information and Education Technology (ICIET), pp. 277-281. IEEE, 2023. ([permalink](https://ieeexplore.ieee.org/abstract/document/10111487))
+  - Atashpendar, Aryobarzan, Christian Grévisse, Jean Botev, and Steffen Rothkugel. "Semantic and Interactive Search in an Advanced Note-Taking App for Learning Material." In International Conference on Human-Computer Interaction, pp. 13-29. Cham: Springer International Publishing, 2022. ([permalink](https://link.springer.com/chapter/10.1007/978-3-031-05657-4_2))
+  - (⭐ **Best Paper**) Atashpendar, Aryobarzan, Christian Grévisse, and Steffen Rothkugel. "Enhanced sketchnoting through semantic integration of learning material." In International Conference on Applied Informatics, pp. 340-353. Cham: Springer International Publishing, 2019. ([permalink](https://link.springer.com/chapter/10.1007/978-3-030-32475-9_25))
+- **Certifications**
+  - Docker Foundations Professional - LinkedIn Learning, June 2026 ([permalink](https://www.linkedin.com/learning/certificates/a8439142611401bf8f77205bf9ad5d63f68afaa4f7e5f6062723e009c22bce7b))
+  - Technical Support Fundamentals - Coursera & Google, September 2026 ([permalink](https://www.coursera.org/account/accomplishments/verify/BVNP3EEZEGCA))
